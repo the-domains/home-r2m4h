@@ -1,0 +1,14 @@
+layout_spectrum: 0.10805210447870195
+typography_spectrum: 0.2569639889989048
+color:
+  brandStrength: 0.9826109539717436
+  lightness: 0.4384891733061522
+  saturation: 0.0027570619713515043
+  rhythmicContrast: 0.6415141159668565
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Home
